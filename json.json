@@ -1,0 +1,22 @@
+[
+    {
+        "name" : "Burger",
+        "price" : 3.5,
+        "isAvailabile" : true
+    },
+    {
+        "name" : "Pizza",
+        "price" : 4.5,
+        "isAvailabile" : true
+    },
+    {
+        "name" : "Shawerma",
+        "price" : 5.5,
+        "isAvailabile" : true
+    },
+    {
+        "name" : "Pasta",
+        "price" : 2.5,
+        "isAvailabile" : true
+    }
+]
